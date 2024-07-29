@@ -1,0 +1,8 @@
+:root{
+    --Navbar-color:grey;
+}
+
+[data-theme ="dark"]{
+    --Navbar-color:rgb(122, 242, 24);
+
+}
